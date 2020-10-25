@@ -35,3 +35,5 @@ print(sqrt(2).evalf(100)) # .evalf() method will print a partially evaluated exp
 
 # For the purpose of the Machine Learning and STatistics task my code
 # should not depend on any module from the standard library or otherwise.
+
+
