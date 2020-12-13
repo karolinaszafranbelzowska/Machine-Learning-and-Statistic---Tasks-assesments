@@ -35,9 +35,10 @@ Apply k-means clustering Ronald Fisher’s famous Iris flower data set using sci
 
 
 ### Libraries used:
-- matplotlib: Python plotting library
+- Matplotlib
 - NumPy
 - SciPy
 - Pandas
 - Scikit-learn
+- Seaborn
 
