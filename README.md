@@ -34,6 +34,10 @@ The standard deviation of an array of numbers x is calculated using numpy as np.
 Apply k-means clustering Ronald Fisher’s famous Iris flower data set using scikit-learn. Explain the k-means clustering code and accuracies achieved. Explain how the model could be used to make a prediction of the iris species.
 
 
-### References:
-
+### Libraries used:
+- matplotlib: Python plotting library
+- NumPy
+- SciPy
+- Pandas
+- Scikit-learn
 
